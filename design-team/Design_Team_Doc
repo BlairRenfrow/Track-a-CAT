@@ -1,0 +1,23 @@
+Design Team
+
+Blair Renfrow – blairrenfrow@gmail.com 
+
+Sarah Walters – sarah@passel.design 
+
+Nichelle Stephens – nichelle@gmail.com 
+
+Muhammad Burhan – mburhannoman@gmail.com 
+
+Matt Rogie – mrsr94@gmail.com 
+
+
+SHORT-TERM GOALS:
+•	Figure out SMS functionality that could tell user where the trolley is located. This could tell the user what stop the trolley just left or the stop it is approaching soon.
+•	Design of the UI for both Desktop and mobile site. Mobile site design extends to app.
+•	Color designation for trolleys and routes.
+•	Toggle for text version of bus schedule. 
+•	Search functionality to narrow what is displayed on map.
+•	What information is needed for the user when they click the trolley icon, stop icon, or route on the site.
+o	Trolley: Location of Bus, Direction of Bus, Total Trolley Route, Number of Stops
+o	Stop: Nearest Stop (User Location Permission), What Route, Next Trolley or Two, Near Points of Interest
+o	Route: Full Route, Time Frame for Total Length of Route, Total Stops, Time Frame for Remainder of Route 
